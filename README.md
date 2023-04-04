@@ -1,7 +1,6 @@
-# Food-Delivery-App
-Flutter-based food ordering app with menu browsing, cart functionality, and billing.
-<img src='https://user-images.githubusercontent.com/87460435/229749465-222465b0-fcd4-4d86-aab0-f7609bb94fe9.png' width= '200' height= '400'>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://user-images.githubusercontent.com/87460435/229749494-3674447a-101a-43e1-973a-68af123f4856.jpg' width= '200' height= '400'>&nbsp;&nbsp;&nbsp;&nbsp;
+# 🍔 Food-Delivery-App
+### Flutter-based food ordering app with menu browsing, cart functionality, and billing.
+<img src='https://user-images.githubusercontent.com/87460435/229749465-222465b0-fcd4-4d86-aab0-f7609bb94fe9.png' width= '200' height= '400'>&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://user-images.githubusercontent.com/87460435/229749494-3674447a-101a-43e1-973a-68af123f4856.jpg' width= '200' height= '400'>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://user-images.githubusercontent.com/87460435/229749533-95748a92-1ee0-48c4-9066-0f9dd760c0df.png' width= '200' height= '400'>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://user-images.githubusercontent.com/87460435/229749624-0637a83b-0e6e-4b65-aa78-e90d7d9c7450.png' width= '200' height= '400'>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://user-images.githubusercontent.com/87460435/229749678-fbf3e6d6-a1ae-42b2-a90e-5f290c58d702.png' width= '200' height= '400'>&nbsp;&nbsp;&nbsp;&nbsp;
